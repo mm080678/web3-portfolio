@@ -37,6 +37,9 @@ I have spearheaded high-growth GTM (Go-to-Market) strategies for retail-focused 
 * **Focus:** Cross-functional coordination, managing KOL networks (hundreds of active relationships), and high-conversion community seeding.
 * **Impact:** Delivered significant retail volume through strategic timing and data-backed narrative placement.
 
+### 3.Crypto Growth Operator Map
+![Proof of Growth Operator](https://github.com/user-attachments/assets/2d89f533-3425-49d7-975d-bcafc11e3c54)
+
 ---
 
 ## 🤝 Connect
