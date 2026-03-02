@@ -20,20 +20,27 @@ I believe a Growth Lead must be "technical-literate." This is my "Proof of Work"
 
 ## 📈 Selected Case Studies & Proof of Work
 
-### 1. Scaling Industry Leaders (Cryptonews, 99Bitcoins, ICOBench)
+### 1. Scaling Industry Leaders ([Cryptonews](https://cryptonews.com/tw), [99Bitcoins](https://99bitcoins.com/zh-tw), [ICOBench](https://icobench.com/zh-tw))
 * **Execution:** Managed the content and growth operations for these global crypto platforms. 
 * **Focus:** WordPress-based content scaling, SEO traffic dominance, and turning editorial content into user acquisition funnels.
 * **Impact:** Maintained and grew authority, audience reach, and retail engagement within the competitive crypto-media landscape.
 
-### 2. Crypto Wallet - Best Wallet [https://bestwallet.com/tw/](https://bestwallet.com/tw/) and Best Wallet Token [https://bestwallet.com/token](https://bestwallet.com/token)  & Presale Initiatives (Pepe Unchained [https://pepeunchained.com/](https://pepeunchained.com/), Tamadoge [https://tamadoge.io/](https://tamadoge.io/), SpongeV2 [https://sponge.vip/zh-hant](https://sponge.vip/zh-hant)etc.)
-* **Execution:** Led GTM (Go-to-Market) campaigns for retail-focused products.
-* **Focus:** Cross-functional coordination, coordinating KOL networks (Hundreds of active relationships), and high-conversion community seeding.
+### 2. Retail Crypto Products & Presale Initiatives
+I have spearheaded high-growth GTM (Go-to-Market) strategies for retail-focused products, managing the lifecycle from launch to community scale.
+
+**Featured Projects:**
+* **Wallet Ecosystem:** [Best Wallet](https://bestwallet.com/tw/) | [Best Wallet Token](https://bestwallet.com/token)
+* **Presale Campaigns:** [Pepe Unchained](https://pepeunchained.com/) | [Tamadoge](https://tamadoge.io/) | [Sponge V2](https://sponge.vip/zh-hant)
+
+**Key Performance:**
+* **Execution:** Led end-to-end GTM campaigns for retail-focused crypto products.
+* **Focus:** Cross-functional coordination, managing KOL networks (hundreds of active relationships), and high-conversion community seeding.
 * **Impact:** Delivered significant retail volume through strategic timing and data-backed narrative placement.
 
 ---
 
 ## 🤝 Connect
-I love the intersection of technical innovation and mass-market adoption.
+I love the intersection of technical innovation and mass-market adoption. Let's build something meaningful.
 
 * **LinkedIn:** [https://www.linkedin.com/in/amanda-wong-1b39b2140/](https://www.linkedin.com/in/amanda-wong-1b39b2140/)
 * **Email:** [mm080678@gmail.com](mailto:mm080678@gmail.com)
