@@ -11,7 +11,7 @@ I believe a Growth Lead must be "technical-literate." This is my "Proof of Work"
 
 ## 🛠 My Web3 Growth Toolkit
 
-* **High-Volume Content Engine:** Expert in managing and scaling top-tier crypto media platforms (**Cryptonews.com [https://cryptonews.com/tw](https://cryptonews.com/tw), 99Bitcoins[https://99bitcoins.com/zh-tw/](https://99bitcoins.com/zh-tw/), ICOBench[https://icobench.com/zh-tw](https://icobench.com/zh-tw)**). Proficient in **WordPress** architecture, SEO strategy, and high-volume content operations.
+* **High-Volume Content Engine:** Expert in managing and scaling top-tier crypto media platforms, including **[Cryptonews.com](https://cryptonews.com/tw)**, **[99Bitcoins](https://99bitcoins.com/zh-tw/)**, and **[ICOBench](https://icobench.com/zh-tw)**. Proficient in **WordPress** architecture, SEO strategy, and high-volume content operations.
 * **On-chain Intelligence:** Proficient in using Etherscan, Dune Analytics, and TokenTerminal to track user behavior and market trends.
 * **Community Management:** Orchestrated massive community growth by aligning KOL/Influencer relations with data-backed content marketing.
 * **Ecosystem Fluency:** Deep understanding of DeFi, Tokenomics, Wallets, and Layer 2 solutions.
