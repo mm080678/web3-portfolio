@@ -25,7 +25,7 @@ I believe a Growth Lead must be "technical-literate." This is my "Proof of Work"
 * **Focus:** WordPress-based content scaling, SEO traffic dominance, and turning editorial content into user acquisition funnels.
 * **Impact:** Maintained and grew authority, audience reach, and retail engagement within the competitive crypto-media landscape.
 
-### 2. Crypto Wallet and wallet Token:Best Wallet [https://bestwallet.com/tw/](https://bestwallet.com/tw/) [https://bestwallet.com/token](https://bestwallet.com/token)  & Presale Initiatives (Pepe Unchained[https://pepeunchained.com/](https://pepeunchained.com/), Tamadoge [https://tamadoge.io/](https://tamadoge.io/), etc.)
+### 2. Crypto Wallet - Best Wallet [https://bestwallet.com/tw/](https://bestwallet.com/tw/) and Best Wallet Token [https://bestwallet.com/token](https://bestwallet.com/token)  & Presale Initiatives (Pepe Unchained [https://pepeunchained.com/](https://pepeunchained.com/), Tamadoge [https://tamadoge.io/](https://tamadoge.io/), SpongeV2 [https://sponge.vip/zh-hant](https://sponge.vip/zh-hant)etc.)
 * **Execution:** Led GTM (Go-to-Market) campaigns for retail-focused products.
 * **Focus:** Cross-functional coordination, coordinating KOL networks (Hundreds of active relationships), and high-conversion community seeding.
 * **Impact:** Delivered significant retail volume through strategic timing and data-backed narrative placement.
